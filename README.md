@@ -15,4 +15,4 @@ my_var = "sigma"
 - 
 
 - [ ] taskone
-- [ ] tasktwo sigma
+- [x] tasktwo sigma
