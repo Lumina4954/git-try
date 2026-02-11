@@ -14,5 +14,5 @@ my_var = "sigma"
 - unorderered
 - 
 
-- [taskone]
-- [tasktwo] sigma
+- [ ] taskone
+- [ ] tasktwo sigma
